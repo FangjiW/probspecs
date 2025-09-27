@@ -14,7 +14,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
 ]
 dependencies = [
-    "auto_LiRPA @ file:///${PROJECT_ROOT}/auto_LiRPA",
     "torch==1.12.1",
     "torchvision==0.13.1",
     "numpy>=1.25,<1.26",
